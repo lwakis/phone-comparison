@@ -1,0 +1,26 @@
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header div h2 {
+    margin: 20px;
+    font-size: 12px;
+    font-weight: 900;
+    color: #3B4157;
+}
+
+.header h2 {
+    cursor: pointer;
+    font-weight: 900;
+    font-size: 18px;
+    color: #0D5ADC;
+}
